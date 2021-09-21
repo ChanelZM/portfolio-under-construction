@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="726px" height="273px" viewBox="0 0 726 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Right" transform="translate(381.005891, 137.540134) rotate(-245.000000) translate(-381.005891, -137.540134) translate(159.005891, -207.459866)">
+            <path d="M283.5,603 C312.494949,603 336,579.494949 336,550.5 C336,521.505051 312.494949,498 283.5,498 C254.505051,498 231,521.505051 231,550.5 C231,579.494949 254.505051,603 283.5,603 Z" id="Oval-2-Copy" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            <path d="M52.5,229 C81.4949494,229 105,205.494949 105,176.5 C105,147.505051 81.4949494,124 52.5,124 C23.5050506,124 -5.45696821e-12,147.505051 -5.45696821e-12,176.5 C-5.45696821e-12,205.494949 23.5050506,229 52.5,229 Z" id="Oval-2-Copy-2" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            <path d="M181,339.005384 L213.994616,325 L228,357.994616 L195.005384,372 L181,339.005384 Z" id="Rectangle-4-Copy-2" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            <g id="Oval" transform="translate(238.000000, 331.000000)">
+                <ellipse id="Oval-2" fill="#FFDA00" cx="35.9507389" cy="35.9423077" rx="35.9507389" ry="35.9423077"></ellipse>
+                <path d="M46.0492611,84 C65.9043059,84 82,67.9080807 82,48.0576923 C82,28.2073039 65.9043059,12.1153846 46.0492611,12.1153846 C26.1942162,12.1153846 10.0985222,28.2073039 10.0985222,48.0576923 C10.0985222,67.9080807 26.1942162,84 46.0492611,84 Z" id="Oval-2-Copy" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <g id="Oval" transform="translate(157.000000, 133.000000)">
+                <circle id="Oval-2" fill="#FFDA00" cx="18.5" cy="18.5" r="18.5"></circle>
+                <path d="M23.5,43 C33.7172679,43 42,34.7172679 42,24.5 C42,14.2827321 33.7172679,6 23.5,6 C13.2827321,6 5,14.2827321 5,24.5 C5,34.7172679 13.2827321,43 23.5,43 Z" id="Oval-2-Copy" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <g id="Triangle" transform="translate(209.429452, 454.423606) rotate(-37.000000) translate(-209.429452, -454.423606) translate(158.929452, 415.423606)">
+                <path d="M38.8306773,14.0721649 L77.6613546,78 L0,78 L38.8306773,14.0721649 Z" id="Triangle-2" fill="#FFDA00"></path>
+                <path d="M62.1693227,0 L101,63.9278351 L23.3386454,63.9278351 L62.1693227,0 Z" id="Triangle-2-Copy" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <g id="Triangle-Copy-3" transform="translate(114.198121, 62.461556) rotate(-37.000000) translate(-114.198121, -62.461556) translate(63.698121, 23.461556)">
+                <path d="M38.8306773,14.0721649 L77.6613546,78 L0,78 L38.8306773,14.0721649 Z" id="Triangle-2" fill="#FFDA00"></path>
+                <path d="M62.1693227,0 L101,63.9278351 L23.3386454,63.9278351 L62.1693227,0 Z" id="Triangle-2-Copy" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <g id="Triangle-Copy-2" transform="translate(389.920029, 479.732294) rotate(70.000000) translate(-389.920029, -479.732294) translate(339.420029, 440.732294)">
+                <path d="M38.8306773,14.0721649 L77.6613546,78 L0,78 L38.8306773,14.0721649 Z" id="Triangle-2" fill="#FFDA00"></path>
+                <path d="M62.1693227,0 L101,63.9278351 L23.3386454,63.9278351 L62.1693227,0 Z" id="Triangle-2-Copy" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <g id="Square-Copy" transform="translate(163.500000, 398.000000) rotate(10.000000) translate(-163.500000, -398.000000) translate(145.000000, 380.000000)">
+                <path d="M7.52679604,0 L36.6627807,0 L36.6627807,28.7119683 L7.52679604,28.7119683 L7.52679604,0 Z" id="Rectangle-4-Copy" fill="#FFDA00"></path>
+                <path d="M0,6.93872566 L29.1359847,6.93872566 L29.1359847,35.6506939 L0,35.6506939 L0,6.93872566 Z" id="Rectangle-4" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <path d="M167,223.877992 L252.021839,204 L224.100122,289.934209 L167,223.877992 Z" id="Triangle-2-Copy-2" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            <path d="M261.191107,655.102997 L296.808893,646.775607 L285.111784,682.775607 L261.191107,655.102997 Z" id="Triangle-2-Copy-3" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18" transform="translate(279.000000, 664.775607) rotate(56.000000) translate(-279.000000, -664.775607) "></path>
+            <g id="Square-Copy" transform="translate(117.251333, 290.045270) rotate(-68.000000) translate(-117.251333, -290.045270) translate(78.751333, 252.045270)">
+                <path d="M15.6374935,0 L76.1697266,0 L76.1697266,60.532233 L15.6374935,60.532233 L15.6374935,0 Z" id="Rectangle-4-Copy" fill="#FFDA00"></path>
+                <path d="M0,14.628623 L60.532233,14.628623 L60.532233,75.160856 L0,75.160856 L0,14.628623 Z" id="Rectangle-4" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+            <g id="Square-Copy-2" transform="translate(385.655340, 628.297679) rotate(-68.000000) translate(-385.655340, -628.297679) translate(347.155340, 590.297679)">
+                <path d="M15.6374935,0 L76.1697266,0 L76.1697266,60.532233 L15.6374935,60.532233 L15.6374935,0 Z" id="Rectangle-4-Copy" fill="#FFDA00"></path>
+                <path d="M0,14.628623 L60.532233,14.628623 L60.532233,75.160856 L0,75.160856 L0,14.628623 Z" id="Rectangle-4" stroke="#2B8CAD" stroke-width="4" stroke-linecap="round" stroke-dasharray="10,12,26,18"></path>
+            </g>
+        </g>
+    </g>
+</svg>
